@@ -1,0 +1,34 @@
+{
+  "prods": [
+    {
+      "desc": "Pizza",
+      "price": 32,
+      "id": 1
+    },
+    {
+      "desc": "milk",
+      "price": 28,
+      "id": 2
+    },
+    {
+      "desc": "sugar",
+      "price": 52,
+      "id": 3
+    },
+    {
+      "desc": "Pasta",
+      "price": 24,
+      "id": 4
+    },
+    {
+      "desc": "cookies",
+      "price": 2,
+      "id": 5
+    },
+    {
+      "desc": "coffee",
+      "price": 120,
+      "id": 6
+    }
+  ]
+}
